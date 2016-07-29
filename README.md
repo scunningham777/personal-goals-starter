@@ -1,21 +1,19 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Overarching Goals for 2016
+1. Start my CS "degree"
+2. Improve web application design/architecture skills
+3. Pay down debt according to plan
+4. Establish meditation routine
+5. Refurnish
+6. Preggo!
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# July 24, 2016
 
-# November 00, 2014
-
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Kick off my open-source goals page!.
 
 ## Things I'll Do This Week:
 - [x] Play with puppies
