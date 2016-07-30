@@ -13,28 +13,23 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # July 24, 2016
 
-### This Week's Goal: Kick off my open-source goals page!.
+### This Week's Focus: Kick off my open-source goals page!.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Finish Week 3 of *Real Happiness*
+- [ ] Meditate 5 Times
+- [x] Finish Week 1 of CS50x
+- [x] Finish Week 1 of Learning How to Learn
+- [ ] Pay parking ticket :disappointed:
+- [ ] Determine if this tracker is going to add anything over Habitica :bowtie:
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [ ] Call to see about options for pausing or cancelling WAC membership
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do in the Future
+- [ ] Prototype a board game from my Evernote list
+- [ ] Add more music to Google Play Music
+- [ ] Send Dan a link to Fantazaar
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Backlog: Side Projects & Other Ideas
+- [ ] Latin Learning Game (for real!)
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
